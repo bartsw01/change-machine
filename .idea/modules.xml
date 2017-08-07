@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-change-machine-master.iml" filepath="$PROJECT_DIR$/java-change-machine-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-change-machine-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-change-machine-master_main.iml" group="java-change-machine-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-change-machine-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-change-machine-master_test.iml" group="java-change-machine-master" />
+    </modules>
+  </component>
+</project>

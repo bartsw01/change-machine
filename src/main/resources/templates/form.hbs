@@ -1,0 +1,17 @@
+
+
+<!--form.hbs.-->
+{{#partial "content"}}
+
+<h1>Get Change!</h1>
+<form action='/change'>
+ <div class="form-group">
+   <label for="totalCash">Amount</label>
+   <input id="totalCash" name="totalCash" class="form-control" type="text">
+ </div>
+ <button type="submit" class="btn">Get Change!</button>
+</form>
+<!--form.hbs.-->
+{{/partial}}
+
+{{> layout.hbs}}
